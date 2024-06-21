@@ -23,7 +23,7 @@ a{
 .btn{
   background: #FFF;
   color: #212121;
-  padding: 14px 25px;
+  padding: 8px 20px;
   font-size: 16px;
   border-radius: 30px;
   cursor: pointer;
@@ -36,4 +36,9 @@ a{
 .btn img{
   width: 20px;
   margin-left: 10px;
+}
+.btn.dark-btn{
+  background: #2f3678;
+  color: #fff;
+  padding: 12px 20px;
 }
