@@ -42,3 +42,11 @@ a{
   color: #fff;
   padding: 12px 20px;
 }
+/*--media query--*/
+@media (max-width: 1200px){
+  .container{
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  
+}
